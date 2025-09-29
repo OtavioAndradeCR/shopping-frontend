@@ -140,6 +140,10 @@ Os arquivos otimizados serão gerados na pasta `dist/`.
    docker run -p 3000:80 shopping-frontend
    ```
 
+3. **Local do Frontend**:
+```bash
+   URL: http://localhost:3000
+```
 ### Usando Docker Compose (Recomendado)
 
 Na raiz do projeto principal:
